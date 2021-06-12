@@ -8,7 +8,36 @@
       {
         "title": "test",
         "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 0
+        "id": 0,
+        "diagramJson": {
+          "cells": [
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 30,
+                "y": 20
+              },
+              "target": {
+                "x": 110,
+                "y": 100
+              },
+              "vertices": [
+                {
+                  "x": 90,
+                  "y": 110
+                }
+              ],
+              "id": "b1a4b7de-c4b6-41df-a058-a218e292894e",
+              "z": 1,
+              "attrs": {}
+            }
+          ]
+        },
+        "size": {
+          "height": 590,
+          "width": 790
+        }
       }
     ]
   }
